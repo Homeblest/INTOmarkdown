@@ -1,25 +1,35 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+## Student:
 
-## 1. Linux uppsetning
+* Hjalti Leifsson
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+## 1. Booting Linux:
 
-## 2. Uppsetning á vim && git
+   First i tried making my machine dual boot Linux - Ubuntu and Windows 8.
+   After making a bootable usb disk and making considerable changes to the BIOS,
+   The installer didn't recognize the previous windows 8 OS, so i couldn't dual boot.
+   After that i decided to use virtualbox - which was pretty straightforward, it went well.
+   
+   ![Here's a picture of my virtual box running Linux](http://i41.tinypic.com/20kei4j.png)
+   
+## 2. Setup of vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+   Setting these programs up was as easy as it gets, although i didn't really understand how it worked, where did they go? The terminal
+   never asked me where i wanted to put them, is there a default directory for that kind of stuff in Linux? However, retrieving a program like that from the internet was awesome.
 
-## 3. Unnið með Git (1. hluti)
+## 3. Working with Git (Part 1.)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+   This went very well, and it was fun to use the terminal to retrieve something from the internet.
+   This was also very straightforward, just follow the instructions and nothing can go wrong, but it was fun!
+   URL: https://github.com/Homeblest/INTOPrufa
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+## 4. Open Source Programs:
 
-## 4. Uppsettur hugbúnaður
+    1. Codeblocks. Licence: GPL v3.0. Source code: http://www.codeblocks.org/downloads/25.
+    2. Mozilla Firefox. Licence: MPL v2.0. Source code: https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Mercurial
+    3. Notepad++. Licence: GPL. Source code: http://download.tuxfamily.org/notepadplus/6.5/npp.6.5.src.7z
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-
-## 5. Unnið með Git (2. hluti)
+## 5. Working with Git (Part 2.)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
