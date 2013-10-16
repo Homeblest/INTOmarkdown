@@ -11,6 +11,8 @@
    The installer didn't recognize the previous windows 8 OS, so i couldn't dual boot.
    After that i decided to use virtualbox - which was pretty straightforward, it went well.
    
+   Here's a picture of my virtual box running Linux:
+   
    ![Here's a picture of my virtual box running Linux](http://i41.tinypic.com/20kei4j.png)
    
 ## 2. Setup of vim && git
@@ -22,7 +24,10 @@
 
    This went very well, and it was fun to use the terminal to retrieve something from the internet.
    This was also very straightforward, just follow the instructions and nothing can go wrong, but it was fun!
-   URL: https://github.com/Homeblest/INTOPrufa
+   Making changes to the code was pretty hard, because using vim was something i'm not used to, and i have been coding in an IDE this whole time, so coding like this was difficult.
+   I also had no way of compiling the source file, to my knowledge there is no compiler installed on Ubuntu. So to test the code, i had to write it again in Codeblocks.
+   
+   Here is the url to my commit: https://github.com/Homeblest/INTOPrufa
 
 ## 4. Open Source Programs:
 
