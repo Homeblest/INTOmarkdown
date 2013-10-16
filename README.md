@@ -30,6 +30,3 @@
     2. Mozilla Firefox. Licence: MPL v2.0. Source code: https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Mercurial
     3. Notepad++. Licence: GPL. Source code: http://download.tuxfamily.org/notepadplus/6.5/npp.6.5.src.7z
 
-## 5. Working with Git (Part 2.)
-
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
